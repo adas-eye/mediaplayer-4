@@ -38,7 +38,7 @@ Käyttöliittymän ympärille rakennetaan monta pienempää komponenttia, jotkat
 ikkunaan toiminnallisuuksia. player.cpp-tiedostoon tulee kaikki median 
 kontrolloimiseen liittyvät ominaisuudet, joita kutsutaan käyttöliittymäkomponenttien luokista.
 
-![Rakkene luonnos](https://github.com/sakkep93/mediaplayer/tree/master/images/RakenneLuonnos.png)
+![Rakkene luonnos](https://github.com/sakkep93/mediaplayer/blob/master/images/RakenneLuonnos.png?raw=true)
 
 ## Ominaisuuksien tärkeys <a name="omintark"></a>
 | Nimi                                  | Tärkeys (1-5)          | Tehty |
