@@ -38,7 +38,7 @@ Käyttöliittymän ympärille rakennetaan monta pienempää komponenttia, jotkat
 ikkunaan toiminnallisuuksia. player.cpp-tiedostoon tulee kaikki median 
 kontrolloimiseen liittyvät ominaisuudet, joita kutsutaan käyttöliittymäkomponenttien luokista.
 
-![Rakkene luonnos](https://version.aalto.fi/gitlab/ELEC-A7150/media-player-2/raw/master/images/RakenneLuonnos.png)
+![Rakkene luonnos](https://github.com/sakkep93/mediaplayer/tree/master/images/RakenneLuonnos.png)
 
 ## Ominaisuuksien tärkeys <a name="omintark"></a>
 | Nimi                                  | Tärkeys (1-5)          | Tehty |
@@ -82,14 +82,14 @@ jossa havainnollsitetaan toistettavan kappaleen metatiedot sekä ikkunaan myös 
 play-, pause-, stop-, volyymi- ja muut tarpeelliset painikkeet. Alla kuva, jossa näkyy 
 millä tavalla kaikki käyttöliittymäkomponentit ryhmittyvät applikaation pääkäyttöliittymänäkymään.
 
-![mockup_withContent](https://version.aalto.fi/gitlab/ELEC-A7150/media-player-2/raw/master/images/c++mediaplayer.png)
+![mockup_withContent](https://github.com/sakkep93/mediaplayer/tree/master/images/c++mediaplayer.png)
 
 Alla kuva käyttöliittymästä, kun applikaation ajaa ensimmäisen kerran. Tällöin
 ikkunaan avautuu aikaisemmin kuvattu MenuBar-käyttöliittymäkomponentti sekä
 suuri drag-and-drop mediatiedostojen lisäysominaisuus. Kun mediaplayer -applikaatiollemme
 annettaan mediatiedostoja onnistuneesti muuttu näkymä yllä olevan kuvan näköiseksi.
 
-![mockup_withoutContent](https://version.aalto.fi/gitlab/ELEC-A7150/media-player-2/raw/master/images/c++mediaplayer_noPlaylist.png)
+![mockup_withoutContent](https://github.com/sakkep93/mediaplayer/tree/master/images/c++mediaplayer_noPlaylist.png)
 
 
 ## Käytettävät ulkoiset kirjastot <a name="kirjastot"></a>
@@ -115,7 +115,7 @@ kuvassa on merkitty alustavasti tärkeimmät ominaisuudet punaisella ja oranssil
 värillä mahdollisten lisäominaisuuksien implementointi. Aikatarkkuutena toimivat 
 viikot.
 
-![aikataulu](https://version.aalto.fi/gitlab/ELEC-A7150/media-player-2/raw/master/images/aikataulu.png)
+![aikataulu](https://github.com/sakkep93/mediaplayer/tree/master/images/aikataulu.png)
 
 
 ### Deadlines <a name="deadlines"></a> 
