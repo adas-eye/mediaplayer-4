@@ -71,18 +71,3 @@ tai suoraan terminalista:
 
 `sudo make install`
 
-## Asennus (EI TOIMI TAMAN HETKISESSA VERSIOSSA)
-
-**Asenna ensin tarvittavat kirjastot kohdassa 'vaatimukset'!**
-
-Kun olet projektin juuressa, aja seuraavat komennot:
-
-`cd src`
-
-`qmake -qt=qt5`
-
-`make`
-
-`./mediaplayer`
-
-Jos kaikki sujui hyvin, tulisi ruudulla nyt olla mediasoittimen käyttöliittymä.
